@@ -2,7 +2,7 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+more problems
 Use the left arrow to go back!
 ---
 layout: slide
